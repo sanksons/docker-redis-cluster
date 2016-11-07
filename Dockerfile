@@ -1,4 +1,4 @@
-FROM redis
+FROM redis:3.0
 
 MAINTAINER sanksons <glitter.sankalp@gmail.com>
 
